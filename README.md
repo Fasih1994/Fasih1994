@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm a passionate data engineer with 3+ years of experience, skilled in Python 🐍, Pandas 🐼, SQLAlchemy, and more. 
+## Hi there! 👋 I'm a passionate data engineer with 3+ years of experience, skilled in Python 🐍, SQL, ETL, Backend, and more. 
 
 🚀 **Data Engineering:** ETL with PySpark, Hadoop, Hive, and Stream processing using Kafka, KSQL, Kafka-Connect, Schema Registry, and Spark's Structured Streams. Cloud & On-Prem cluster management with containerized environments. Nifi & AirFlow pipelines.
 
